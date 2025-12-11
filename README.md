@@ -44,6 +44,21 @@ I am a Computer Science enthusiast with a strong interest in **Python Programmin
 | **Number Guessing Game** | An interactive game where the user has to guess a randomly generated number. | Python |
 
 ---
+<p align="left">
+  <a href="https://www.linkedin.com/in/divya-ballipalli-1026612" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/6Tubq9adZm/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+ <a href="https://www.hackerrank.com/divyaballipalli1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://divyaballipalli.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+---
 
 ## 📊 My GitHub Stats
 
