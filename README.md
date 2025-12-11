@@ -44,6 +44,7 @@ I am a Computer Science enthusiast with a strong interest in **Python Programmin
 | **Number Guessing Game** | An interactive game where the user has to guess a randomly generated number. | Python |
 
 ---
+
 # contact me
 
 <p align="left">
@@ -61,6 +62,7 @@ I am a Computer Science enthusiast with a strong interest in **Python Programmin
   </a>
 </p>
 
+---
 
 ## 📊 My GitHub Stats
 
