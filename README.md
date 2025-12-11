@@ -44,6 +44,8 @@ I am a Computer Science enthusiast with a strong interest in **Python Programmin
 | **Number Guessing Game** | An interactive game where the user has to guess a randomly generated number. | Python |
 
 ---
+# contact me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/divya-ballipalli-1026612" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
